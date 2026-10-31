@@ -1,6 +1,6 @@
 
 const defaultUsername = 'leajan2027';
-const defaultPassword = '2027';
+const defaultPassword = '1912';
 
 document.getElementById('loginForm').addEventListener('submit', function (e) {
     e.preventDefault();
